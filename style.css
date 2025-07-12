@@ -16,6 +16,12 @@ body {
 }
 .foto img{
     width: 3000px;
-    height: 3000px;
+    height: 500px;
 border-radius: 50px;
+}
+.infos{
+    flex: 2;
+    padding: flex;
+    flex-direction: column;
+    justify-content: center;
 }

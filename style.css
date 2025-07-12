@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(205, 248, 255); 
+    background-color: rgb(252, 255, 205); 
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -28,7 +28,7 @@ border-radius: 50px;
 .infos h1{
     font-size: 48px;
     margin: 0;
-    color: rgb(251, 252, 186);
+    color: rgb(217, 184, 245);
 }
 .infos h2{
     font-size: 24px;

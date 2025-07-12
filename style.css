@@ -1,5 +1,5 @@
 body {
-    background-color: lemonchiffon; 
+    background-color: rgb(205, 248, 255); 
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -16,7 +16,7 @@ body {
 }
 .foto img{
     width: 3000px;
-    height: 500px;
+    height: auto;
 border-radius: 50px;
 }
 .infos{
@@ -24,4 +24,14 @@ border-radius: 50px;
     padding: flex;
     flex-direction: column;
     justify-content: center;
+}
+.infos h1{
+    font-size: 48px;
+    margin: 0;
+    color: rgb(251, 252, 186);
+}
+.infos h2{
+    font-size: 24px;
+    margin-top: 10px;
+    color: rgb(217, 187, 245);
 }
